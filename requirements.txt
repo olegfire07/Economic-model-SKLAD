@@ -1,0 +1,14 @@
+streamlit
+numpy
+pandas
+joblib
+PyYAML
+plotly
+numpy-financial
+scikit-learn
+openpyxl
+xlsxwriter
+setuptools
+chardet
+requests
+typing-extensions
